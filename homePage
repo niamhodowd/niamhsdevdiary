@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Blog</title>
+</head>
+<body>
+
+
+
+
+<style>
+body {
+font-family: 'Cambria', monospace;
+background-color: #SW7008;
+}
+
+header {
+background-color: #1F456E;
+color: #F1F1F1;
+width: 100%;
+padding: 20px;
+box-sizing: border-box;
+}
+.myBlog {
+padding:30px;
+font-size: 45px;
+text-align: center;
+}
+.content {
+color: #1f456e;
+  background-color: lightgrey;
+  width: 33%;
+  border: 10px;
+  padding: 50px;
+  margin: 20px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  
+}
+
+a:active {
+  text-decoration: underline;
+
+
+footer {
+  width: 100%;
+      background-color: #f1f1f1;
+      color: black;
+      padding: 30px;
+      box-sizing: border-box;
+	  float:left;
+ 
+ }
+ 
+  footer div {
+      padding-bottom: 10px 0;
+      border-bottom: 1px solid #555;
+  }
+
+
+
+
+</style>
+
+
+<header>
+<h1>Niamh O'Dowd </h1>
+</header>
+
+<hr>
+
+</head>
+<body>
+
+        
+       
+            <div class="container">
+                <h2 class="myBlog" style="padding-bottom: 20px">My Blog</h2>
+                    
+                    
+                    
+                    
+                   
+                        <div class="blog-highlight-card" data-tags="Games Development, Programming, Project-Based Learning, University">
+                            <div class="blog-card" id="blog-card">
+    
+    <a href="C:\Users\niamh\Documents\blog1\index.html" target="_self" >
+        <div class="content" style="padding:5px">
+            <h1>Making my first computer game</h1>
+            <div class="b1Description">
+                My first development diary learning the ins and outs of game development.
+            </div>
+            <div class="b1Date">
+                Published on <span class="has-text-weight-semibold">January 27, 2025</span> 
+                
+                
+                
+                
+                
+            </div>
+        </div>
+    </a>
+</div>
+                       
+                    
+ 
+
+ 
+ <hr>
+
+<footer>
+  <p> <br>Contact: niamhemmaodowd@gmail.com </p>
+    <p>&copy;</p>
+ </footer>
+
+ 
+</body>
+
+</html>
